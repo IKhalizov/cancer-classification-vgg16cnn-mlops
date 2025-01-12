@@ -1,8 +1,8 @@
-### MLOPs cancer classification project, using python data pipelines, with tensorflow, keras, data version control, MLFlow.  
+## MLOPs cancer classification project, using python data pipelines, with tensorflow, keras, data version control, MLFlow.  
 
 The goal of this project is to understand how to build full cycle of machine learning model training. In the project was used tensorflow keras vgg16 CNN model as base model and it was trained with Chest CT-Scan images Dataset from Kaggle, with freeze layers technique.  
 
-# Pipelines stages are:
+### Pipelines stages are:
 
 1. Data ingestion
 2. Model preparation
